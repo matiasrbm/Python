@@ -1,3 +1,4 @@
+# Ainda Incompleto #
 class Veiculo:
     def __init__(self, modelo, ano, valor):
         self.modelo = modelo
